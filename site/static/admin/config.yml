@@ -3,3 +3,4 @@ backend:
   repo: emileae/victor-hugo # Path to your Github repository
   branch: master # Branch to update
   publish_mode: editorial_workflow
+  media_folder: "images/uploads"
